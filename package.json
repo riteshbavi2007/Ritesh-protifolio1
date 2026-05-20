@@ -1,0 +1,13 @@
+{
+  "name": "ritesh-portfolio",
+  "version": "1.0.0",
+  "description": "Student Portfolio Website for Ritesh Vijay Bavi",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
